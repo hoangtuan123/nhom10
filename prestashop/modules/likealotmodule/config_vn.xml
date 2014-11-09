@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>likealotmodule</name>
+	<displayName><![CDATA[Facebook Like a Lot]]></displayName>
+	<version><![CDATA[1.3]]></version>
+	<description><![CDATA[Adds a facebook Like Button to your product page.]]></description>
+	<author><![CDATA[Plulz Develop Team]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

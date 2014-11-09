@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>sendsms</name>
+            <displayName><![CDATA[SendSMS]]></displayName>
+            <version><![CDATA[1.16]]></version>
+            <description><![CDATA[Module permettant l&#039;envoi de SMS lors de diff&eacute;rents &eacute;v&eacute;nements (commande, validation du paiement, envoi de la commande, mail de contact, newsletter...)]]></description>
+            <author><![CDATA[Yann Bonnaillie]]></author>
+            <tab><![CDATA[]]></tab>
+	<confirmUninstall>Êtes-vous sûr de vouloir supprimer ce module ?</confirmUninstall>
+            <is_configurable>0</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

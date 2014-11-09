@@ -1,0 +1,60 @@
+﻿1. Giới thiệu: Website sản phẩm thời trang nam
+
+2. Kiến trúc:
++ Dựa trên nền tảng Prestashop version 1.6.0.9
+
+3. Thiết kế, chức năng
+- Website được chia thành 2 phần: người dùng và phần admin
+
+3.1 Phần người dùng:
+   3.1.1 Sản phẩm
+       3.1.1.1 Xem sản phẩm (sản phẩm mới, tất cả sản phẩm, xem sản phẩm theo loại sản phẩm)
+       3.1.1.2 Xem chi tiết sản phẩm
+       3.1.1.3 Định dạng đơn giá sản phẩm theo VNĐ
+       3.1.1.4 Tìm kiếm sản phẩm (có gợi ý đơn giá, tên, hình ảnh)
+       3.1.1.5 Xem hình ảnh phóng to của sản phẩm
+       3.1.1.6 Chức năng share, like, comment sản phẩm trên facebook, gửi cho bạn bè.
+       3.1.1.7 Slideshow hình ảnh trên trang chủ
+   3.1.2 Tài khoản
+       3.1.2.1 Đăng ký tài khoản ( có gửi mail xác nhận ??? )
+       3.1.2.2 Đăng nhập tài khoản
+       3.1.2.3 Chỉnh sửa thông tin tài khoản
+       3.1.2.4 Đổi mật khẩu
+   3.1.3 Đặt hàng online
+       3.1.3.1 Đưa sản phẩm vào giỏ hàng
+       3.1.3.2 Thực hiện đặt hàng (nếu đã đăng nhập sẽ tự động cập nhật thông tin khách hàng, nếu chưa đăng nhập có thể nhập thông tin mà k cần đăng nhập)
+       3.1.3.3 Xem lại đơn đặt hàng
+   3.1.4 Chức năng chat trực tiếp trên website giữa người dùng và nhân viên.
+   3.1.5 Chức năng bản đồ
+   3.1.6 Capcha
+
+3.2 Phần admin:
+   3.2.1 Quản lý sản phẩm
+      3.2.1.1 Xem sản phẩm	
+      3.2.1.2 Thêm sản phẩm
+      3.2.1.3 Sửa sản phẩm
+      3.2.1.4 Xóa sản phẩm
+   3.2.2 Quản lý loại sản phẩm
+      3.2.2.1 Xem loại sản phẩm
+      3.2.2.2 Thêm loại sản phẩm
+      3.2.2.3 Sửa loại sản phẩm
+      3.2.2.4 Xóa loại sản phẩm
+   3.2.3 Quản lý đơn đặt hàng
+      3.2.3.1 Xem danh sách đơn đặt hàng, chi tiết đơn đặt hàng theo từng đơn đặt hàng
+      3.2.3.2 Sửa đơn đặt hàng (cập nhật trạng thái đơn hàng)
+      3.2.3.3 Xóa đơn đặt hàng
+      3.2.3.4 Tìm kiếm đơn đặt hàng (theo ID, theo tình trạng và theo ngày đặt hàng, tên khách hàng, tổng tiền ...)
+   3.2.4 Dịch tiếng việt cho website
+   3.2.5 Chức năng tăng tốc cho website
+   3.2.6 Seo Url
+   3.2.7 Google Anlytics
+   3.2.8 Chat trực tuyến (phải đăng nhập vào web zopim)
+
+4. Cài đặt module, cấu hình
+- Sử dụng module MagicZoom (phóng to hình ảnh)
+- Sử dụng module Zopim Chat (chat trực tuyến)
+- Sử dụng Google Site Map (www.xml-sitemaps.com và https://www.google.com/webmasters/tools/)
+- Sử dụng Google Anlytics (http://www.google.com/analytics) - http://addons.prestashop.com/en/natif/4168-ganalytics.html 
+- Sử dụng https://developers.google.com/speed/pagespeed/insights/ để kiếm tra tốc độ website
+- Sử dụng module Capcha https://www.google.com/recaptcha/admin#whyrecaptcha
+- Sử dụng module like, comment, share facebook 
