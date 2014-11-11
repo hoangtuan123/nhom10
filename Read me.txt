@@ -1,7 +1,12 @@
-﻿1. Giới thiệu: Website sản phẩm thời trang nam
+1. Giới thiệu: Website sản phẩm thời trang nam
+Thành viên nhóm 10:
+- Phạm Nguyễn Sơn Tùng - 3110410174
+- Nguyễn Thế Vinh - 3110410181
+- Nguyễn Hoàng Tuấn - 3110410169
+Trang web: http://fashionmen.net63.net/prestashop/
 
 2. Kiến trúc:
-+ Dựa trên nền tảng Prestashop version 1.6.0.9
+- Dựa trên nền tảng Prestashop version 1.6.0.9
 
 3. Thiết kế, chức năng
 - Website được chia thành 2 phần: người dùng và phần admin
