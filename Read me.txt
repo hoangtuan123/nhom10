@@ -16,7 +16,7 @@
        3.1.1.6 Chức năng share, like, comment sản phẩm trên facebook, gửi cho bạn bè.
        3.1.1.7 Slideshow hình ảnh trên trang chủ
    3.1.2 Tài khoản
-       3.1.2.1 Đăng ký tài khoản ( có gửi mail xác nhận ??? )
+       3.1.2.1 Đăng ký tài khoản
        3.1.2.2 Đăng nhập tài khoản
        3.1.2.3 Chỉnh sửa thông tin tài khoản
        3.1.2.4 Đổi mật khẩu
